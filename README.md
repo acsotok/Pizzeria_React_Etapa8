@@ -1,4 +1,4 @@
-Deploy: https://pizzeria-react-etapa3-3r2t0selj-angelica-sotos-projects.vercel.app
+Deploy: https://pizzeria-react-etapa8-76mqhcgmz-angelica-sotos-projects.vercel.app/
 
 # React + Vite
 
